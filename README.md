@@ -63,7 +63,7 @@ _Welcome to "Hello GitHub Actions"! :wave:_
 - To read more about workflows, jobs, and events, see "[Understanding GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)".
 - If you want to learn more about the `pull_request` event before using it, see "[pull_request](https://docs.github.com/en/developers/webhooks-and-events/webhooks/webhook-events-and-payloads#pull_request)".
 
-To get you started, we used actions to go ahead and made a branch and pull request for you.
+To get you started, we used actions to go ahead and made a branch and pull request for you. :wave:
 
 ### :keyboard: Activity: Create a workflow file
 
